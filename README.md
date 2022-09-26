@@ -1,5 +1,5 @@
 
-# Random Text Generator using Brython
+# Random Text Generator
 
 ![GitHub issues](https://img.shields.io/github/issues/V-Shadbolt/RandomStringGenerator?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/V-Shadbolt/RandomStringGenerator?style=for-the-badge)
