@@ -23,3 +23,4 @@ function makeid(length) {
 const args = process.argv;
 console.log(makeid(args[2]));
 
+// this is a test comment to test commits
