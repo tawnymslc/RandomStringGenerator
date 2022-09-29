@@ -14,4 +14,4 @@ function makeid(length) {
 
 const args = process.argv;
 console.log(makeid(args[2]));
-//test
+//test/2ndupdate
